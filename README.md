@@ -1,3 +1,3 @@
 # github-workflow
 
-## There is nothing permanet, excpet change
+## There is nothing permanet, except change
